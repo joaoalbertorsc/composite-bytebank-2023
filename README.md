@@ -1,4 +1,4 @@
-# Projeto Composite ByteBank 2023
+# Projeto Composite ByteBank 2022
 
 ## Descrição
 Este é um projeto simples de sistema bancário desenvolvido como parte dos estudos de programação orientada a objetos em Java. O projeto implementa funcionalidades básicas de um banco, como criação de contas, clientes, depósitos, saques e transferências.
